@@ -1,26 +1,43 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import Cycle from './Cycle'
+import Interface from './Interface';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+// TODO: explore usage of MediaWiki API
+
+class App extends React.Component {
+  constructor(props) {
+    super(props)
+
+    this.state = { 
+      index: 0,
+      max: 4,
+      name: ""
+    }
+  }
+
+  increment = () => {
+    this.setState( (prevState) => {
+      return prevState.index < this.state.max ? prevState.index++ : prevState.index = 0;
+    })
+  }
+
+  decrement = () => {
+    this.setState( (prevState) => {
+      return prevState.index > 0 ? prevState.index-- : prevState.index = this.state.max;
+    })
+  }
+
+  render() {
+    return (
+      <div>
+        <Header />
+        <Cycle left={this.decrement} label={this.state.index} right={this.increment} />
+        <Interface index={this.state.index} />
+      </div>
+    )
+  }
 }
 
 export default App;

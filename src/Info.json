@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Count Basie",
+    "name": "William James \"Count\" Basie",
+    "instrument": "Piano / Bandleader",
+    "birthdate": "Aug 21, 1904, Red Bank, NJ",
+    "deathdate": "Apr 26, 1984, Hollywood, FL",
+    "quote": "If you play a tune and a person don't tap their feet, don't play the tune.",
+    "blurb": {
+      "text": "\"Count\" Basie was an American jazz pianist, organist, bandleader, and composer. In 1935, Basie formed his own jazz orchestra, the Count Basie Orchestra. He led the group for almost 50 years, creating innovations like the use of two \"split\" tenor saxophones, emphasizing the rhythm section, riffing with a big band, using arrangers to broaden their sound, and others.",
+      "attr": "https://en.wikipedia.org/wiki/Count_Basie"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Count_Basie_in_Rhythm_and_Blues_Revue.jpg",
+      "attr": "https://archive.org/details/rhythm_blues_review [Public domain], via Wikimedia Commons",
+      "alt": "Count Basie 1955 in Rhythm and Blues Revue (movie)",
+      "style": "0 -30px",
+      "size": "300px 281px"
+    }
+  },{
+    "title": "John Coltrane",
+    "name": "John William \"Trane\" Coltrane",
+    "instrument": "Tenor Sax",
+    "birthdate": "Sep 23, 1926, Hamlet, NC",
+    "deathdate": "Jul 17, 1967, Huntington, NY",
+    "quote": "You can play a shoestring if you're sincere.",
+    "blurb": {
+      "text": "John Coltrane was an American jazz saxophonist and composer. Working in the bebop and hard bop idioms early in his career, Coltrane helped pioneer the use of modes in jazz and was later at the forefront of free jazz. He led at least fifty recording sessions during his career, and appeared as a sideman on many albums by other musicians, including trumpeter Miles Davis and pianist Thelonious Monk.",
+      "attr": "https://en.wikipedia.org/wiki/John_Coltrane"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/John_Coltrane_1963.jpg",
+      "attr": "Gelderen, Hugo van / Anefo [CC BY-SA 3.0 nl (https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons",
+      "alt": "John Coltrane 1963 / Hugo van Gelderen",
+      "style": "0 -60px",
+      "size": "310px 455px"
+    }
+  },{
+    "title": "Miles Davis",
+    "name": "Miles Dewey Davis III",
+    "instrument": "Trumpet / Bandleader",
+    "birthdate": "May 26, 1926, Alton, IL",
+    "deathdate": "Sep 28, 1991, Santa Monica, CA",
+    "quote": "My future starts when I wake up every morning... Every day I find something creative to do with my life.",
+    "blurb": {
+      "text": "Miles Davis was an American jazz trumpeter, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th century music. Davis adopted a variety of musical directions in his five-decade career which kept him at the forefront of a number of major stylistic developments in jazz.",
+      "attr": "https://en.wikipedia.org/wiki/Miles_Davis"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Miles_Davis_by_Palumbo.jpg",
+      "attr": "Jazz musician Miles Davis / © Tom Palumbo, New York City, USA / Wikimedia Commons / CC BY-SA 2.0",
+      "alt": "Miles Davis 1955-56 / Tom Palumbo",
+      "style": "30px 0",
+      "size": "300px 300px"
+    }
+  },{
+    "title": "Billie Holiday",
+    "name": "Eleanora Fagan",
+    "instrument": "Vocalist",
+    "birthdate": "Apr 7, 1915, Philadelphia, PA",
+    "deathdate": "Jul 17, 1959, Manhattan, NY",
+    "quote": "No two people on earth are alike, and it's got to be that way in music or it isn't music.",
+    "blurb": {
+      "text": "Billie Holiday was an American jazz musician and singer-songwriter with a career spanning nearly thirty years. Her vocal style, strongly inspired by jazz instrumentalists, pioneered a new way of manipulating phrasing and tempo. She was known for her vocal delivery and improvisational skills, which made up for her limited range and lack of formal music education.",
+      "attr": "https://en.wikipedia.org/wiki/Billie_Holiday"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Billie_Holiday%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28William_P._Gottlieb_04251%29.jpg",
+      "attr": "Billie Holiday at the Downbeat club / William P Gottlieb / Public Domain",
+      "alt": "Billie Holiday 1947 / William P. Gottlieb",
+      "style": "0 -50px",
+      "size": "345px 360px"
+    }
+  },{
+    "title": "Joe Pass",
+    "name": "Joseph Anthony Jacobi Passalaqua",
+    "instrument": "Guitar",
+    "birthdate": "Jan 13, 1929, New Brunswick, NJ",
+    "deathdate": "May 23, 1994, Los Angeles, CA",
+    "quote": "Listen, listen, listen.",
+    "blurb": {
+      "text": "Joe Pass was an American jazz guitarist of Sicilian descent. He is considered one of the greatest jazz guitarists of the 20th century. He created possibilities for jazz guitar through his style of chord-melody, his knowledge of chord inversions and progressions, and his use of walking basslines and counterpoint during improvisation. Pass worked often with pianist Oscar Peterson and vocalist Ella Fitzgerald.",
+      "attr": "https://en.wikipedia.org/wiki/Joe_Pass"
+    },
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Joe_Pass_%28jazz%29.jpg",
+      "attr": "Tom Marcello Webster, New York, USA [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "alt": "Joe Pass 1975 / © Tom Marcello Webster",
+      "style": "0 -10px",
+      "size": "310px 205px"
+    }
+  }
+]
