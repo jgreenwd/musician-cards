@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8eecc89ae5a178c95f95f4a7b58be1f6",
+    "revision": "fe25728101a998f609f98a368b5e860f",
     "url": "/musician-cards/index.html"
   },
   {
-    "revision": "4c34dcac5b3183c4e4e5",
-    "url": "/musician-cards/static/css/main.2b853422.chunk.css"
+    "revision": "a97803b92a7efa6dac1c",
+    "url": "/musician-cards/static/css/main.cc4852e2.chunk.css"
   },
   {
     "revision": "79b0fab75d4ad40d6561",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/musician-cards/static/js/2.e9fa20c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c34dcac5b3183c4e4e5",
-    "url": "/musician-cards/static/js/main.11372b7d.chunk.js"
+    "revision": "a97803b92a7efa6dac1c",
+    "url": "/musician-cards/static/js/main.f9d037a1.chunk.js"
   },
   {
     "revision": "ca7c5b87a3f09cc67183",
