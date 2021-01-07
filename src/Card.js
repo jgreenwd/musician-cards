@@ -5,13 +5,15 @@ import sprite from './media/sprite.png';
 
 function Card(props) {
   const style = {
-    backgroundImage: `linear-gradient(rgba(50,51,130,0.35), rgba(50,51,130,0.65)), url(${background})`,
+    backgroundImage: `linear-gradient(rgba(50,51,130,0.35), rgba(50,51,130,0.65)), url(${background})`
   };
 
   const imageStyle = {
     background: `url(${props.content.image.url}) ${props.content.image.style}`,
     backgroundSize: `${props.content.image.size}`
   };
+
+  const date = new Date();
 
   return (
     <article style={style} alt="satin blue background">
@@ -35,7 +37,7 @@ function Card(props) {
       </div>
       <footer>
         <span className="source">Image Source<div className="imageInfo sourceInfo">{props.content.image.attr}</div></span>
-        <span>© 2018 J. Greenwood</span>
+        <span>© 2018 - {date.getFullYear()} J. Greenwood</span>
         <span className="source">Text Source<div className="textInfo sourceInfo">{props.content.blurb.attr}</div></span>
       </footer>
     </article>
