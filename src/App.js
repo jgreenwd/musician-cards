@@ -32,9 +32,8 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Header />
-        <Cycle left={this.decrement} label={this.state.index} right={this.increment} />
         <Interface index={this.state.index} />
+        <Cycle left={this.decrement} label={this.state.index} right={this.increment} />
       </div>
     )
   }
